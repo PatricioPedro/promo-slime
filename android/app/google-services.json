@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113833696760",
+    "project_id": "promo-ecommerce001",
+    "storage_bucket": "promo-ecommerce001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113833696760:android:cbc97f79dd8780ae860a0d",
+        "android_client_info": {
+          "package_name": "com.exemple.promo_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTaYmT7nHj6mMCnIFxyLHGYyxU0iTdkRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
